@@ -1,3 +1,2 @@
 # sorting-5-numbers
-comparing within 7 times.
-减少一次比较。
+对5个整数a,b,c,d,e,最多比较7次，将它们排好序。
